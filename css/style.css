@@ -1,0 +1,40 @@
+* {
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	text-align: center;
+}
+
+#nav, #feature, .article, #footer {
+	background-color: #efefef;
+	margin-top: 20px;
+	padding: 10px 0px 5px 0px;
+}
+
+#feature, .article {
+	height: 100px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+.logo {
+	float: center;
+	width: 200px;
+	height: 150px;
+}
+h1{
+	position: inline;
+	top: 18px;
+	left: 10px;
+	font-family: 'Poiret One', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 45px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px;
+}
+body{
+	background-color: #FDF3E7;
+
+}
